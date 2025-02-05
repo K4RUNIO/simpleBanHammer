@@ -2,5 +2,4 @@
 Simple Ban Hammer Plugin
 
 # Lastest Changelog:
-- Added some esthetics to messages in console
-- Fixed misspelled example in config file
+- Made sharpness.255 enchant invisible
