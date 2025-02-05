@@ -1,0 +1,11 @@
+# Message that shows when player gets kicked from server
+
+ban-message: "You have been PERMANENTLY BANNED FROM THIS SERVER!"
+
+# Message that shows when player try to connect to server
+
+ban-reason: "You are PERMANENTLY BANNED FROM THIS SERVER!"
+
+# Broadcast message plugin send to console when hammer is used on someone (every player on server will see that)
+
+broadcast-message: "{player_name} was banned by the mighty Ban Hammer!"
